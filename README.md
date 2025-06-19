@@ -6,7 +6,7 @@
 💻 Interested in: AI, fintech, full-stack development, open-source  
 🌱 Always building & learning — check out my projects
 
-📫 How to reach me: mpmabetwa@gmail.com | [LinkedIn](https://www.linkedin.com/in/patricia-mabetwa/)
+📫 How to reach me: mpmabetwa@gmail.com |60633670@mylife.unisa.ac.za | [LinkedIn](https://www.linkedin.com/in/patricia-mabetwa/)
 
 
 
