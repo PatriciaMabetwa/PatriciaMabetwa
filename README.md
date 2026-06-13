@@ -1,12 +1,11 @@
-# 👋 Hi there, I'm Patricia Mabetwa
+ Hi there, I'm Patricia Mabetwa
+BSc in Computing student at UNISA  
+Currently learning: Generative AI, Mobile App Development, Agile  
+ Programs: WeThinkCode_ GenAI Short Course | FNB App Academy  
+ Interested in: AI, fintech, full-stack development, open-source  
+ Always building & learning — check out my projects
 
-🎓 2nd-year BSc in Computing student at UNISA  
-💡 Currently learning: Generative AI, Mobile App Development, Agile  
-🚀 Programs: WeThinkCode_ GenAI Short Course | FNB App Academy  
-💻 Interested in: AI, fintech, full-stack development, open-source  
-🌱 Always building & learning — check out my projects
-
-📫 How to reach me: mpmabetwa@gmail.com |60633670@mylife.unisa.ac.za | [LinkedIn](linkedin.com/in/patricia-mabetwa-5a5515352)
+ How to reach me: mpmabetwa@gmail.com |60633670@mylife.unisa.ac.za | [LinkedIn](linkedin.com/in/patricia-mabetwa)
 
 
 
